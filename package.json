@@ -1,0 +1,19 @@
+{
+  "name": "manish-thakur-portfolio",
+  "version": "1.0.0",
+  "description": "Manish Thakur's personal portfolio website featuring smooth scrolling, dark mode, and case studies",
+  "scripts": {
+    "dev": "npx serve -l 3000 .",
+    "start": "npx serve -l 3000 .",
+    "build": "echo 'Static site, no build step required'"
+  },
+  "keywords": [
+    "portfolio",
+    "manish-thakur",
+    "vercel",
+    "lenis",
+    "smooth-scroll"
+  ],
+  "author": "Manish Thakur",
+  "license": "MIT"
+}
